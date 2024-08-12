@@ -32,7 +32,7 @@
 
 <h2>🛠 Tecnologias:</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px" height="80px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px" height="80px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="80px"/>
+<img src="https://skillicons.dev/icons?i=html,css,js">
                
 <h2>ℹ Github Info</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&theme=white"><br>
