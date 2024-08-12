@@ -4,13 +4,13 @@
     
 <h1>👋 Olá, Sou Matheus Araujo - Desenvolvedor FrontEnd</h1>
 
-<a href="url">
+<a href="https://www.linkedin.com/in/matheus-araujo-26b01131a/?trk=opento_sprofile_topcard">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href="url">
+<a href="https://mail.google.com/mail/u/0/#inbox">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="url">
+<a href="https://www.instagram.com/mths_arauj0/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
