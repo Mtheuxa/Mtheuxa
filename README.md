@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js">
                
-![Mtheuxa's Stats](https://github-readme-stats.vercel.app/api?username=Mtheuxa&theme=slateorange&show_icons=true&hide_border=true&count_private=true)![Mtheuxa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![Mtheuxa's Stats](https://github-readme-stats.vercel.app/api?username=Mtheuxa&theme=slateorange&show_icons=true&hide_border=true&layout=compact_private=true)![Mtheuxa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&layout=compact&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&layout=compact&theme=dark">
 
