@@ -34,8 +34,8 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js">
                
-<h2>ℹ Github Info</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&theme=white"><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&theme=white">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&layout=compact">
 
   </body>
