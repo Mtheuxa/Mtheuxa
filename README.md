@@ -26,9 +26,11 @@
 
 <h3>🚀 Pequenos Projetos</h3>
 
+<ul>
+<li><a href="https://godofwar-ragnarok.vercel.app" target="_blank">Landing Page do jogo God of War Ragnarok</a></li>
 <a href="url" target="_blank"></a>
 <a href="url" target="_blank"></a>
-<a href="url" target="_blank"></a>
+</ul>
 
 <h2>🛠 Tecnologias:</h2>
 
