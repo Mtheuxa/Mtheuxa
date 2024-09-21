@@ -17,7 +17,7 @@
 <h3>Sobre mim:</h3>
 
 <ul>
-<li><p>🎓 Sou estudante Graduando em Análise Desenvolvimento de Sistemas pela Universidade Iguaçu</p></li>
+<li><p>🎓 Cursando Análise Desenvolvimento de Sistemas pela Universidade Iguaçu</p></li>
 <li><p>💻 Atualmente aprendendo desenvolvimento web com HTML, CSS e JavaScript</p></li>
 <li><p>📘 Além disso, estou aprimorando minhas habilidades em linguagem C como parte do meu curso na faculdade</p></li>
 <li><p>💡 Sou um entusiasta sempre em busca de novas oportunidades para aprender e explorar tecnologias inovadoras</p></li>
