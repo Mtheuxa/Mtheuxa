@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js">
                
-
+![Mtheuxa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mtheuxa&theme=slateorange&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&layout=compact&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&layout=compact&theme=dark">
 
