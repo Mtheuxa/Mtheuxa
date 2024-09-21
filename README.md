@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js">
                
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&theme=white">
+<img src="https://github-readme-stats.vercel.app/api?username=Mtheuxa&show_icons=true&theme=dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtheuxa&layout=compact">
 
   </body>
