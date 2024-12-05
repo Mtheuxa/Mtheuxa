@@ -4,7 +4,7 @@
     
 <h1>👋 Olá, Sou Matheus Araujo - Desenvolvedor FrontEnd</h1>
 
-<a href="https://www.linkedin.com/in/matheus-araujo-26b01131a/?trk=opento_sprofile_topcard" target="_blank">
+<a href="https://www.linkedin.com/in/matheuspaulucci/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
